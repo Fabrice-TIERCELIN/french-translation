@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.3" : [ "added chronicles" ],
 		"1.0.2" : [ "fixed palette in png images" ],
 		"1.0.1" : [ "png images" ],
 		"1.0.0" : [ "Initial release with resources from official french GOG version" ]
