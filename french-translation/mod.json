@@ -2,8 +2,8 @@
 	"name" : "French translation",
 	"description" : "French translation of Heroes of Might and Magic III: Complete Edition",
 	"version" : "1.0.3",
-	"author" : "",
-	"contact" : "https://github.com/vcmi-mods/french-translation",
+	"author" : "Fabrice TIERCELIN and others",
+	"contact" : "https://github.com/Fabrice-TIERCELIN",
 	"modType" : "Translation",
 	"language" : "french",
 	"compatibility" :
